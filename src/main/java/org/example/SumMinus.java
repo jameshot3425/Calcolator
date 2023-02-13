@@ -13,5 +13,8 @@ public class SumMinus {
 
         return num1-num2;
     }
+    public void ki(){
+        
+    }
 
 }
